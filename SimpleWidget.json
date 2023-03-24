@@ -12,14 +12,14 @@
         {
 			"kind": "main",
 			"tag": "com-sap-sample-tile",
-            "url": "https://xyz.github.io/SimpleWidget/webcomponent.js",
+            "url": "https://isrsac.github.io/SimpleWidget/webcomponent.js",
             "integrity": "",
             "ignoreIntegrity" : true
         },
 		{
 			"kind": "styling",
 			"tag": "com-sap-sample-tile-aps",
-            "url": "https://xyz.github.io/SimpleWidget/aps_webcomponent.js",
+            "url": "https://isrsac.github.io/SimpleWidget/aps_webcomponent.js",
 			"integrity": "",
             "ignoreIntegrity" : true
 		}
